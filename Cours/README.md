@@ -43,15 +43,18 @@
 
 ## Cours 6 : codage et compression audio 
 **Modèle source/filtre*
+
 **Codage de signaux audio numérique**
 1. Codage LPC
 2. Codage cepstral
 3. Codage MFCC (Mel-frequency cepstral coefficients)
+
 **Introduction à la compression**
 1. Besoins
 2. Compression sans perte d'information (codage entropique)
 3. Compression avec perte d'information (codage perceptif)
 4. Histoire de la compression audio
+
 **Compression MPEG**
 1. Transformée en Cosinus Discrète Modifiée (MDCT)
 2. Codage en bande de fréquences
