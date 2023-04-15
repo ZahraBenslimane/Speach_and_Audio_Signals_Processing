@@ -1,6 +1,6 @@
 
 
-### Cours 2 : échantillonnage, quantification et restitution 
+## Cours 2 : échantillonnage, quantification et restitution 
 
 **CAN** 
 * Théorème de Shannon
@@ -24,7 +24,7 @@
 2. Principe d'incertitude
 3. Inversion de la TFCT (STFT) par l'algorithme OverLap Add (OLA)
 
-### Cours 5 : Introduction à la perception du son 
+## Cours 5 : Introduction à la perception du son 
 
 **Introduction à la physiologie de l'oreille**
 * L'oreille externe, moyenne et interne
@@ -38,7 +38,7 @@
 * Masquage fréquentiel
 * Masquage temporel
 
-### Cours 6 : codage et compression audio 
+## Cours 6 : codage et compression audio 
 **Modèle source/filtre**
 
 **Codage de signaux audio numérique**
