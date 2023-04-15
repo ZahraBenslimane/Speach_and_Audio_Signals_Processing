@@ -48,8 +48,8 @@
 2. Codage cepstral
 3. Codage MFCC (Mel-frequency cepstral coefficients)
 * Introduction à la compression
-- Besoins
-- Compression sans perte d'information (codage entropique)
+1. Besoins
+2. Compression sans perte d'information (codage entropique)
 3. Compression avec perte d'information (codage perceptif)
 4. Histoire de la compression audio
 * Compression MPEG
