@@ -30,10 +30,12 @@
 1. L'oreille externe
 2. L'oreille moyenne
 3. L'oreille interne
+
 **La perception des sons**
 1. Sensibilité auditive
 2. Perception de l'intensité
 3. Perception des fréquences
+
 **Le masquage auditif**
 1. Principe
 2. Masquage fréquentiel
@@ -42,7 +44,7 @@
 
 
 ## Cours 6 : codage et compression audio 
-**Modèle source/filtre*
+**Modèle source/filtre**
 
 **Codage de signaux audio numérique**
 1. Codage LPC
