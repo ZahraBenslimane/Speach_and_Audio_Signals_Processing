@@ -1,13 +1,16 @@
 
 
 ## Cours 2 : échantillonnage, quantification et restitution 
+
 **CAN** 
 * Théorème de Shannon
 * échantillonnage non idéal : échantillonnage naturel
+
 **CNA**  
 * Reconstructeur idéal : filtre idéal
 * Généralisation au cas des interpolateurs d'ordre N
 * Illustration avec le bloqueur d'ordre 0
+
 **Quantification**
 * Mise en évidence de bruit de quantification
 * Calcul du bruit de quantification en fonction du nombre de bits N et du facteur de charge
