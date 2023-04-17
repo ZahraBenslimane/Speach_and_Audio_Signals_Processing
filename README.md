@@ -1,4 +1,4 @@
-#### Speach and Audio Signals Processing
+## Speach and Audio Signals Processing TP
 
 **Lab 1 : Acquisition d’un signal audio. Quantification, rééchantillonnage et repliement spectral.**
 
